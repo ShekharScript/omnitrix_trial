@@ -28,7 +28,7 @@
             slideInterval = setInterval(goNext, 3000);
         });
 
-        // Hamburger menu functionality
+// Hamburger menu functionality
         const hamburger = document.querySelector('.hamburger');
         const menuOverlay = document.querySelector('.menu-overlay');
         const menuClose = document.querySelector('.menu-close');
